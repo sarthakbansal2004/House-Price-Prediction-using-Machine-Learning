@@ -82,7 +82,7 @@ These visualizations help users understand the dataset and model behavior better
 
 1. Clone the repository
    
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/sarthakbansal2004/House-Price-Prediction-using-Machine-Learning.git
 
 2. Navigate to the project directory
    
