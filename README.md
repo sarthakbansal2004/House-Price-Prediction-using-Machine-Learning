@@ -18,53 +18,91 @@ Each model is evaluated and compared to help users understand which algorithm pe
 
 🖥️ Features of the Web App
 ✅ Upload your own housing dataset (CSV format)
+
 ✅ Automatic data preprocessing
+
 ✅ Interactive data visualization (feature relationships & trends)
+
 ✅ Train multiple ML models with a single click
+
 ✅ Compare model performance using evaluation metrics
+
 ✅ Predict house prices for new/unseen data
+
 ✅ Clean, responsive, and intuitive Streamlit UI
 
+
 📊 Data Visualization
+
 The app provides visual insights such as:
+
  • Feature vs Price relationships
+ 
  • Correlation analysis
+ 
  • Graphical comparison of model predictions
+ 
 These visualizations help users understand the dataset and model behavior better.
+
 
 ⚙️ Tech Stack
 • Programming Language: Python
+
 • Libraries & Tools:
+
    • Pandas
+   
    • NumPy
+   
    • Matplotlib / Seaborn
+   
    • Scikit-learn
+   
    • XGBoost
+   
    • Streamlit
+   
 
 🛠️ How to Run the Project
 
+
 1. Clone the repository
+   
 git clone https://github.com/your-username/house-price-prediction.git
 
 2. Navigate to the project directory
+   
 cd house-price-prediction
 
 3. Install required dependencies
+   
 pip install -r requirements.txt
 
 4. Run the Streamlit app
+   
 streamlit run app.py
 
+
 📈 Use Cases
+
 • Academic mini/major projects
+
 • Learning machine learning model comparison
+
 • Understanding real-world regression problems
+
 • Portfolio project for GitHub & LinkedIn
 
+
 🎯 Future Improvements
+
 • Add more advanced models
+
 • Hyperparameter tuning
+
 • Deployment on cloud platforms
+
 • Location-based price prediction
+
 • Improved UI/UX
+
