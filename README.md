@@ -5,28 +5,28 @@ An interactive Machine Learning web application built with Streamlit that predic
 
 The goal of this project is to demonstrate how machine learning algorithms can be used to predict house prices based on various features such as area, number of bedrooms, location-related factors, and more.
 
-The application is designed to be user-friendly, making it suitable for students, beginners, and ML enthusiasts who want to understand end-to-end machine learning workflow — from data upload to prediction.
+The application is designed to be user-friendly, making it suitable for students, beginners, and ML enthusiasts who want to understand end-to-end machine learning workflow   from data upload to prediction.
 
-🧠 Machine Learning Models Used
+## **🧠 Machine Learning Models Used**
 
 This project implements and compares the following models:
 
-• Linear Regression
+**• Linear Regression**
 
   • Simple and interpretable baseline model
   
-• Random Forest Regressor
+**• Random Forest Regressor**
 
   • Ensemble-based model for better accuracy
   
-• XGBoost Regressor
+**• XGBoost Regressor**
 
   • Advanced gradient boosting model for high performance
   
 Each model is evaluated and compared to help users understand which algorithm performs best on their dataset.
 
 
-🖥️ Features of the Web App
+## **🖥️ Features of the Web App**
 
 ✅ Upload your own housing dataset (CSV format)
 
@@ -45,7 +45,7 @@ Each model is evaluated and compared to help users understand which algorithm pe
 
 
 
-📊 Data Visualization
+## **📊 Data Visualization**
 
 The app provides visual insights such as:
 
@@ -60,10 +60,12 @@ These visualizations help users understand the dataset and model behavior better
 
 
 
-⚙️ Tech Stack
-• Programming Language: Python
+## **⚙️ Tech Stack**
 
-• Libraries & Tools:
+**• Programming Language**: Python
+
+**• Libraries & Tools:**
+
 
    • Pandas
    
@@ -78,27 +80,27 @@ These visualizations help users understand the dataset and model behavior better
    • Streamlit
    
 
-🛠️ How to Run the Project
+## **🛠️ How to Run the Project**
 
 
-1. Clone the repository
+**1. Clone the repository**
    
 git clone https://github.com/sarthakbansal2004/House-Price-Prediction-using-Machine-Learning.git
 
-2. Navigate to the project directory
+**2. Navigate to the project directory**
    
 cd house-price-prediction
 
-3. Install required dependencies
+**3. Install required dependencies**
    
 pip install -r requirements.txt
 
-4. Run the Streamlit app
+**4. Run the Streamlit app**
    
 streamlit run app.py
 
 
-📈 Use Cases
+## **📈 Use Cases**
 
 • Academic mini/major projects
 
@@ -109,7 +111,7 @@ streamlit run app.py
 • Portfolio project for GitHub & LinkedIn
 
 
-🎯 Future Improvements
+## **🎯 Future Improvements**
 
 • Add more advanced models
 
