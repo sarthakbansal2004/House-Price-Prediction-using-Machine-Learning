@@ -1,7 +1,8 @@
 # **🏠 House Price Prediction using Machine Learning**
 An interactive Machine Learning web application built with Streamlit that predicts house prices using multiple regression models. This project allows users to upload datasets, explore data visually, compare model performance, and predict house prices for new inputs — all through a clean and intuitive user interface.
 
-🚀 Project Overview
+## **🚀 Project Overview**
+
 The goal of this project is to demonstrate how machine learning algorithms can be used to predict house prices based on various features such as area, number of bedrooms, location-related factors, and more.
 
 The application is designed to be user-friendly, making it suitable for students, beginners, and ML enthusiasts who want to understand end-to-end machine learning workflow — from data upload to prediction.
