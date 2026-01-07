@@ -7,16 +7,26 @@ The goal of this project is to demonstrate how machine learning algorithms can b
 The application is designed to be user-friendly, making it suitable for students, beginners, and ML enthusiasts who want to understand end-to-end machine learning workflow — from data upload to prediction.
 
 🧠 Machine Learning Models Used
+
 This project implements and compares the following models:
+
 • Linear Regression
+
   • Simple and interpretable baseline model
+  
 • Random Forest Regressor
+
   • Ensemble-based model for better accuracy
+  
 • XGBoost Regressor
+
   • Advanced gradient boosting model for high performance
+  
 Each model is evaluated and compared to help users understand which algorithm performs best on their dataset.
 
+
 🖥️ Features of the Web App
+
 ✅ Upload your own housing dataset (CSV format)
 
 ✅ Automatic data preprocessing
