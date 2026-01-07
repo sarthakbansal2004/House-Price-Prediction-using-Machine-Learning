@@ -32,6 +32,8 @@ Each model is evaluated and compared to help users understand which algorithm pe
 ✅ Clean, responsive, and intuitive Streamlit UI
 
 
+
+
 📊 Data Visualization
 
 The app provides visual insights such as:
@@ -43,6 +45,8 @@ The app provides visual insights such as:
  • Graphical comparison of model predictions
  
 These visualizations help users understand the dataset and model behavior better.
+
+
 
 
 ⚙️ Tech Stack
